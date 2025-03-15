@@ -122,3 +122,5 @@ Response: [ { filename, fileType, uploadedAt } ]
 
 This project is designed for temporary client demonstration and can be expanded as needed. 🚀
 
+=======
+>>>>>>> 9c9e371 (project structure created)
