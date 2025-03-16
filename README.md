@@ -1,5 +1,7 @@
 # Data AI Agent
 
+![Web Page Preview](./screenshot.png)
+
 ## Project Overview
 This project is a **Data AI Agent** web application that allows users to upload files and input text via a user-friendly interface. The application is built using **React (TypeScript) for the frontend** and can be integrated with a backend for file processing and storage.
 
